@@ -1,0 +1,1 @@
+webpackJsonp([0,3],{0:function(e,n,o){o(1);var t=o(31);document.body.appendChild(t()),console.log("hey")},31:function(e,n){e.exports=function(){var e=document.createElement("h1");return e.className="pure-button",e.innerHTML="Hello world 2",e}}});
